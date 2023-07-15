@@ -12,8 +12,3 @@ class Solution:
             if j == len(nums):
                 i += 1
                 j = i + 1
-
-
-
-a = Solution()
-print(a.twoSum([0, 5, 3, 2, 2], 4))
